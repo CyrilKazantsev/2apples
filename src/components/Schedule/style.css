@@ -1,0 +1,14 @@
+.card_days {
+    display: flex;
+    padding: 20px 0 ;
+    flex-direction: column;
+    align-self: stretch;
+}
+
+.card_data {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 10px 0;
+}

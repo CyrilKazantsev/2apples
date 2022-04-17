@@ -1,0 +1,96 @@
+[
+	{
+		"name": "Кирилл",
+		"days": [
+			{
+				"day": "Понедельник",
+				"dailyaffairs": [
+					{
+						"time": "14:00-15:00",
+						"occupation": "Зал"
+					},
+					{
+						"time": "18:00-21:00",
+						"occupation": "Пары"
+					}
+				]
+			},
+			{
+				"day": "Вторник",
+				"dailyaffairs": [
+					{
+						"time": "14:00-15:00",
+						"occupation": "Зал"
+					},
+					{
+						"time": "18:00-21:00",
+						"occupation": "Пары"
+					}
+				]
+			},
+			{
+				"day": "Суббота",
+				"dailyaffairs": [
+					{
+						"time": "14:00-15:00",
+						"occupation": "Зал"
+					},
+					{
+						"time": "18:00-21:00",
+						"occupation": "Пары"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Артём",
+		"days": [
+			{
+				"day": "Понедельник",
+				"dailyaffairs": [
+					{
+						"time": "14:00-15:00",
+						"occupation": "Зал"
+					},
+					{
+						"time": "18:00-21:00",
+						"occupation": "Пары"
+					}
+				]
+			},
+			{
+				"day": "Вторник",
+				"dailyaffairs": [
+					{
+						"time": "18:00-21:00",
+						"occupation": "Пары"
+					},
+					{
+						"time": "14:00-15:00",
+						"occupation": "Зал"
+					}
+				]
+			},
+			{
+				"day": "Пятница",
+				"dailyaffairs": [
+					{
+						"time": "18:00-21:00",
+						"occupation": "Пары"
+					}
+				]
+				
+			},
+			{
+				"day": "Суббота",
+				"dailyaffairs": [
+					{
+						"time": "18:00-21:00",
+						"occupation": "Пары"
+					}
+				]
+			}
+		]
+	}
+]
